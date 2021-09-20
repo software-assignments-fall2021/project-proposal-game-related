@@ -1,5 +1,4 @@
-# Project Proposal
-2D RPG Game
+# 2D RPG Game
 
 ### What and why?
 As a potential game design student, I want to explore the possibilities I can do with game design through software engineering. I am not quite sure about what the game should look like, but I hope there will be people joining me to refine the details and develop a great RPG game together.
